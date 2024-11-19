@@ -1,0 +1,15 @@
+C:\Users\Kefir_\source\repos\Flyweight Pattern\bin\Debug\net6.0\Flyweight Pattern.exe
+C:\Users\Kefir_\source\repos\Flyweight Pattern\bin\Debug\net6.0\Flyweight Pattern.deps.json
+C:\Users\Kefir_\source\repos\Flyweight Pattern\bin\Debug\net6.0\Flyweight Pattern.runtimeconfig.json
+C:\Users\Kefir_\source\repos\Flyweight Pattern\bin\Debug\net6.0\Flyweight Pattern.dll
+C:\Users\Kefir_\source\repos\Flyweight Pattern\bin\Debug\net6.0\Flyweight Pattern.pdb
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\Flyweight Pattern.csproj.AssemblyReference.cache
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\Flyweight Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\Flyweight Pattern.AssemblyInfoInputs.cache
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\Flyweight Pattern.AssemblyInfo.cs
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\Flyweight Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\Flyweight Pattern.dll
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\refint\Flyweight Pattern.dll
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\Flyweight Pattern.pdb
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\Flyweight Pattern.genruntimeconfig.cache
+C:\Users\Kefir_\source\repos\Flyweight Pattern\obj\Debug\net6.0\ref\Flyweight Pattern.dll
